@@ -1,1 +1,0 @@
-import{dZ as i,d_ as l,d$ as o,e0 as c}from"./index-BXX-owGK.js";function d({level:e,class:n,...t},s){const r=a(e);return i(`h${r}`,{...t,"aria-level":String(r),class:l(o.heading,n),role:"heading"},s)}function a(e){return c(Math.ceil(e),1,6)}function $(e,n=1){return a(e+n)}export{$ as l,d as s};
